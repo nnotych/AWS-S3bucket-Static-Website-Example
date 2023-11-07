@@ -16,7 +16,7 @@
 
 
 
-**Project site screen**
+**Project site screen:**
 ![examplesitescreen](examplesitescreen.png)
 
 
