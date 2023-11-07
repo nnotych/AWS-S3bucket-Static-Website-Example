@@ -10,7 +10,7 @@
 
 * **[🔴Hosting a static website using Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)**
 
-* **or tutorials:**
+  **or tutorials:**
 
 * **[🔴How to host Static Website on Amazon S3](https://github.com/sami-dev/aws-s3-static-website-sample)**
 
@@ -33,7 +33,7 @@
 
 
 
-* **Good luck everyone learning S3 AWS!😎**
+ **Good luck everyone learning S3 AWS!😎**
 
 
 
