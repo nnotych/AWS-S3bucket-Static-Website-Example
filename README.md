@@ -6,14 +6,14 @@
 
 >This repository contains an example site that can be hosted on AWS S3 to practice working with this service. For details on exactly how to work with S3, see the official AWS documentation on the subject:
 
-* **<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html" target="_blank">🔴Tutorial: Configuring a static website on Amazon S3🪣</a>**
-* **<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html" target="_blank">🔴Hosting a static website using Amazon S3🪣</a>**
-<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html" target="_blank">🔴Tutorial: Configuring a static website on Amazon S3</a>
+
+* **[🔴Tutorial: Configuring a static website on Amazon S3🪣](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)**
+* **[Hosting a static website using Amazon S3🪣](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.htm)**
 
 
   **or  Github tutorials:**
 
-* **[🔴How to host Static Website on Amazon S3](https://github.com/sami-dev/aws-s3-static-website-sample){:target="_blank"}**
+* **[🔴How to host Static Website on Amazon S3](https://github.com/sami-dev/aws-s3-static-website-sample)**
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-* **[🔴This Project  WIKI PAGE](wiki.md){:target="_blank"}**
+* **[🔴This Project  WIKI PAGE](wiki.md)**
 
 
 
