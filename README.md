@@ -1,4 +1,4 @@
-# AWS S3bucket Static Website Example
+# AWS S3 bucket Static Website Example
 **This repository contains an example of a static one-page site that you can deploy to your AWS S3 Bucket as you explore this S3 service.**
 
 ![S3 bucket](s3screen.png)
