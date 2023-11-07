@@ -20,7 +20,7 @@
 ![examplesitescreen](examplesitescreen.png)
 
 
-❗To run the site locally, clone the repository and open the index.html file.
+❗To run the site locally, clone the repository and open the **index.html** file.
 
 
 **The main code of the site is located in the index.html file.**
