@@ -8,7 +8,7 @@ Peculiarities:
 - Home page with background image.
 - A button that opens the video “How a Cow Torments” on YouTube.
 - Menu with several example buttons.
-
+-The site is not adapted for viewing on mobile devices.
 
 
 Project type: Open Source
