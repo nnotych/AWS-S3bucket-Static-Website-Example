@@ -34,7 +34,7 @@
 
 * **[🔴This Project  WIKI PAGE](wiki.md)**
 
->🏆🌟If you have successfully launched a website on an S3 bucket, clicked on the button in the center and the cow in the video started screaming🐄, congratulations, you have successfully launched a website on an S3 bucket and purchased a new skill!
+>🌟If you have successfully launched a website on an S3 bucket, clicked on the button in the center and the cow in the video started screaming🐄, congratulations, you have successfully launched a website on an S3 bucket and purchased a new skill!!!🏆🏆🏆
 
  **Good luck everyone learning S3 AWS!😎**
 
