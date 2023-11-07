@@ -15,7 +15,7 @@
 ![examplesitescreen](examplesitescreen.png)
 
 
-**Good luck everyone learning S3 AWS!**
+**Good luck everyone learning S3 AWS!:-)**
 
 
 
