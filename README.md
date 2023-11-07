@@ -14,7 +14,7 @@
 **Project site screen**
 ![examplesitescreen](examplesitescreen.png)
 
-
+The site is not adapted for viewing on mobile devices.
 **Good luck everyone learning S3 AWS!:-)**
 
 
