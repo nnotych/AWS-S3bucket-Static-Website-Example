@@ -1,0 +1,18 @@
+Project: S3bucketSimpleStaticWebsite
+
+Description:
+-This repository contains a simple static website developed using HTML and CSS. The site includes an image on the home page, a button that opens the video “How a Cow Torments,” and a menu for navigating the site.
+-The site is designed as an example of a static site for AWS S3
+
+Peculiarities:
+- Home page with background image.
+- A button that opens the video “How a Cow Torments” on YouTube.
+- Menu with several example buttons.
+
+
+
+Project type: Open Source
+
+Website link: https://github.com/columbnik/AWS-S3bucket-Static-WebsiteExample
+
+*2023y*
