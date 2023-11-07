@@ -8,6 +8,8 @@
 
 * **<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html" target="_blank">🔴Tutorial: Configuring a static website on Amazon S3🪣</a>**
 * **<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html" target="_blank">🔴Hosting a static website using Amazon S3🪣</a>**
+<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html" target="_blank">🔴Tutorial: Configuring a static website on Amazon S3</a>
+
 
   **or  Github tutorials:**
 
