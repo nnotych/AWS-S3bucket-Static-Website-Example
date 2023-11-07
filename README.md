@@ -28,6 +28,10 @@
 >❗❗❗The site is not adapted for viewing on mobile devices❗❗❗.
 
 
+**[🔴WIKI PAGE]([https://github.com/sami-dev/aws-s3-static-website-sample](https://github.com/columbnik/AWS-S3bucket-Static-Website-Example/wiki/AWS%E2%80%90S3bucket%E2%80%90Static%E2%80%90Website%E2%80%90Example-wiki#aws-s3bucket-static-website-example-wiki)https://github.com/columbnik/AWS-S3bucket-Static-Website-Example/wiki/AWS%E2%80%90S3bucket%E2%80%90Static%E2%80%90Website%E2%80%90Example-wiki#aws-s3bucket-static-website-example-wiki)**
+
+
+
 **Good luck everyone learning S3 AWS!😎**
 
 
