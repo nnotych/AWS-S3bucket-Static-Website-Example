@@ -19,7 +19,13 @@
 **Project site screen**
 ![examplesitescreen](examplesitescreen.png)
 
-The site is not adapted for viewing on mobile devices.
+
+To run the site locally, clone the repository and open the index.html file.
+The main code of the site is located in the index.html file.
+
+>The site is not adapted for viewing on mobile devices.
+
+
 **Good luck everyone learning S3 AWS!:-)**
 
 
