@@ -1,4 +1,4 @@
-# AWS S3 bucket Static Website Example![S3 bucket](s3screen.png){width=300px height=200px}
+# AWS S3 bucket Static Website Example![S3 bucket](s3screen.png){width=20px height=20px}
 🪣
 **🤖🪣 This repository contains an example of a static one-page site that you can deploy to your AWS S3 Bucket as you explore this S3 service.**
 
